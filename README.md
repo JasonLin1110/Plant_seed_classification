@@ -1,4 +1,4 @@
-# Plant_seed_classification
+## Plant_seed_classification
 
  # Step: 
        1. main.py (epoch,train_Path,test_path is fixed):
